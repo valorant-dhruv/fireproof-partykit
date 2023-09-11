@@ -1,4 +1,4 @@
-# React Todo MVC example
+# React Todo MVC with Fireproof and Partykit example
 
 This example demonstrates how you can use Fireproof to build a collaborative version of the [Todo MVC](http://todomvc.com) app.
 
